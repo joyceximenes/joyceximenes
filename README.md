@@ -1,7 +1,7 @@
 ### Olá, eu sou a Joyce Ximenes
 
 
-- 🌱 Tenho estudado sobre JavaScript, HTML, CSS e C#
+- 🌱 Tenho estudado sobre Arduíno, C++, Python, SQL  e o básic de frontend.
 - 😄 Pronomes: ela/dela
 
 <div align="center">
