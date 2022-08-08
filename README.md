@@ -1,7 +1,7 @@
 ### Olá, eu sou a Joyce Ximenes
 
 
-- 🌱 Tenho estudado sobre Arduíno, C++, Python, SQL  e o básic de frontend.
+- 🌱 Tenho estudado sobre Arduíno, C++, Python, SQL  e o básico de frontend.
 - 😄 Pronomes: ela/dela
 
 <div align="center">
