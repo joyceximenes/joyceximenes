@@ -1,7 +1,7 @@
 ### Olá, eu sou a Joyce Ximenes
 
 
-- 🌱 Tenho estudado sobre Arduíno, Esp32, C++ e Python. Tenhao afinidade com Internet das Coisas e Machine Learning
+- 🌱 Tenho estudado sobre Internet das Coisas, Machine Learning e Análise de dados. Possuo afinidade com  Arduíno, Esp32, C++ e Python.
 - 😄 Pronomes: ela/dela
 
 <div align="center">
