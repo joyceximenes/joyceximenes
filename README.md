@@ -6,7 +6,7 @@
 
 <div align="center">
 
-| 👁️ **AVIA** | ⚡ **FAST API** |
+| 👁️ **AVIA** | ⚡ **DATA STACK** |
 |:---:|:---:|
 | Assistive AI system based on computer vision for object and text recognition. | A brief practical application of Machine Learning and Data Science concepts. It assesses churn risk (contract abandonment) using a widely popular dataset.. |
 | [![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)]([https://github.com/joyceximenes/AVIA](https://github.com/joyceximenes/assistente_IA)) | [![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)]([https://github.com/joyceximenes/FAST_API](https://github.com/joyceximenes/data-stack)) |
