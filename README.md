@@ -3,16 +3,12 @@
 ### Enthusiast and researcher in Data Science, AI and Deep Learning.
 
 ---
-
-<div align="center">
-
-| 👁️ **AVIA** | ⚡ **DATA STACK** |
+ **Personal / Self Development** 
+| [![AVIA](https://img.shields.io/badge/👁️_AVIA-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joyceximenes/assistente_IA) | [![DEEP LEARNING](https://img.shields.io/badge/🧠_A_DEEP_LEARNING_JOURNEY-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO/NOME_DO_REPO1) |
 |:---:|:---:|
-| Assistive AI system based on computer vision for object and text recognition. | A brief practical application of Machine Learning and Data Science concepts. It assesses churn risk (contract abandonment) using a widely popular dataset.. |
-| [![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)]([https://github.com/joyceximenes/AVIA](https://github.com/joyceximenes/assistente_IA)) | [![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)]([https://github.com/joyceximenes/FAST_API](https://github.com/joyceximenes/data-stack)) |
-
-</div>
-
+| Assistive AI system based on computer vision for object and text recognition. | Studies and in-depth exploration of DL, using various free online sources |
+| [![DATA STACK](https://img.shields.io/badge/⚡_DATA_STACK-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joyceximenes/data-stack) | [![REPO 2](https://img.shields.io/badge/📊_REPO_2-FFD93D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO/NOME_DO_REPO2) |
+| A brief practical application of Machine Learning and Data Science concepts. It assesses churn risk (contract abandonment) using a widely popular dataset. | Descrição do seu segundo novo projeto aqui |
 ---
 
 ### Languages and Tools:
