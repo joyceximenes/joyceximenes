@@ -4,7 +4,7 @@
 
 ---
  **Personal / Self Development** 
-| [![AVIA](https://img.shields.io/badge/👁️_AVIA-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joyceximenes/assistente_IA) | [![DEEP LEARNING](https://img.shields.io/badge/🧠_A_DEEP_LEARNING_JOURNEY-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO/NOME_DO_REPO1) |
+| [![AVIA](https://img.shields.io/badge/👁️_AVIA-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joyceximenes/assistente_IA) | [![DEEP LEARNING](https://img.shields.io/badge/🧠_A_DEEP_LEARNING_JOURNEY-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joyceximenes/deep_learning_journey) |
 |:---:|:---:|
 | Assistive AI system based on computer vision for object and text recognition. | Studies and in-depth exploration of DL, using various free online sources |
 | [![DATA STACK](https://img.shields.io/badge/⚡_DATA_STACK-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joyceximenes/data-stack) | [![REPO 2](https://img.shields.io/badge/📊_REPO_2-FFD93D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO/NOME_DO_REPO2) |
